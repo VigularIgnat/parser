@@ -1,3 +1,4 @@
 # PHP Parser
 My own php parser for cite autoria.com
-The table-result is sanded
+The table-result is sanded to email adress
+
