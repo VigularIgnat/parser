@@ -7,7 +7,7 @@ require 'phpmailer/Exception.php';
 
 $my_gmail="ignatvigular@gmail.com";
 $recepient='vyhuliar896@nauklit.kr.ua';
-$password="3103ignat";
+$password="--";
 
 // Формирование самого письма
 $title = "Файл автомобілів Kia від 2013";
