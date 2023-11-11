@@ -79,7 +79,7 @@
 
     /*$my_gmail="ignatvigular@gmail.com";
     $recepient='vyhuliar896@nauklit.kr.ua';
-    $password="3103ignat";
+    
 
     $to      = $recepient;
     $subject = 'the subject';
